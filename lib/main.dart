@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//Cambio para segundo commits
 void main(){
   runApp(const CalculadoraApp());
   }
@@ -139,7 +140,7 @@ void main(){
                 children: [
                   _buildButton(".", color: Colors.black),
                   _buildButton("0", color: Colors.black),
-                  _buildButton("=", color: Colors.green),
+                  _buildButton("=", color: Colors.blue),
                   _buildButton("+", color: Colors.orange),
                 ],
               ),
