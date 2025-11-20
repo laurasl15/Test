@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # flutter_first
 
 A new Flutter project.
@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Test
 Test
->>>>>>> ef4b4e21bd8f4c862fcc7e21ce6e14ba3cfadb45
+ ef4b4e21bd8f4c862fcc7e21ce6e14ba3cfadb45
